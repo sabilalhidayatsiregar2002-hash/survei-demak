@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>photos</name>
+  <Placemark id="photos.1">
+	<description>&lt;img src=&quot;20261111_112829.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.505717805556,-6.9537045,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.2">
+	<description>&lt;img src=&quot;20261111_112916.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.505717805556,-6.9537045,0</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.3">
+	<description>&lt;img src=&quot;20261111_113309.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.4856456,-6.9256735,31</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.4">
+	<description>&lt;img src=&quot;20261111_113321.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.4856456,-6.9256735,31</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.5">
+	<description>&lt;img src=&quot;20261111_145037.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.524608305556,-6.87227730555556,29</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.6">
+	<description>&lt;img src=&quot;20261111_145059.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.524608305556,-6.87227730555556,29</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.7">
+	<description>&lt;img src=&quot;20261111_145629.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.524593694444,-6.87227030555556,22</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.8">
+	<description>&lt;img src=&quot;20261111_145708.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.524593694444,-6.87227030555556,22</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.9">
+	<description>&lt;img src=&quot;20261111_145745.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.524612611111,-6.8723615,26</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.10">
+	<description>&lt;img src=&quot;20261111_150503.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.527255194444,-6.8681199,25</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.11">
+	<description>&lt;img src=&quot;20261111_150650.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.527255194444,-6.8681199,25</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.12">
+	<description>&lt;img src=&quot;20261111_151011.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.528916111111,-6.86567130555555,25</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.13">
+	<description>&lt;img src=&quot;20261111_151052.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.528916111111,-6.86567130555555,25</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.14">
+	<description>&lt;img src=&quot;20261111_151206.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.529226305556,-6.86512188888889,25</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.15">
+	<description>&lt;img src=&quot;20261111_151210.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.529226305556,-6.86512188888889,25</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.16">
+	<description>&lt;img src=&quot;20261111_151226.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.529237,-6.86513669444444,25</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.17">
+	<description>&lt;img src=&quot;20261111_151650.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.529685,-6.86204569444444,27</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.18">
+	<description>&lt;img src=&quot;20261111_151806.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.5297085,-6.86203330555556,26</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.19">
+	<description>&lt;img src=&quot;20261111_153318.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.531460805556,-6.86404669444444,29</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.20">
+	<description>&lt;img src=&quot;20261111_153324.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.531468194444,-6.86405069444444,27</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.21">
+	<description>&lt;img src=&quot;20261111_153655.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.531488805556,-6.864009,27</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.22">
+	<description>&lt;img src=&quot;20261111_153659.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.531488805556,-6.864009,27</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.23">
+	<description>&lt;img src=&quot;20261111_153740.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.531488805556,-6.864009,27</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.24">
+	<description>&lt;img src=&quot;20261111_153747.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.531527194444,-6.86402219444444,30</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.25">
+	<description>&lt;img src=&quot;20261111_154006.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.531898,-6.86410780555556,27</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.26">
+	<description>&lt;img src=&quot;20261111_154012.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.531898,-6.86410780555556,27</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.27">
+	<description>&lt;img src=&quot;20261111_154020.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.531898,-6.86410780555556,27</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.28">
+	<description>&lt;img src=&quot;20261111_154205.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.53218,-6.86464938888889,28</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.29">
+	<description>&lt;img src=&quot;20261111_161752.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.532215,-6.864656,23</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.30">
+	<description>&lt;img src=&quot;20261111_162559.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.532355,-6.86492030555555,30</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.31">
+	<description>&lt;img src=&quot;20261111_162631.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.532472694444,-6.86484711111111,30</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.32">
+	<description>&lt;img src=&quot;20261111_162857.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.532708611111,-6.86522538888889,24</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.33">
+	<description>&lt;img src=&quot;20261111_162901.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.532708611111,-6.86522538888889,24</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.34">
+	<description>&lt;img src=&quot;20261111_163511.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.532774111111,-6.86537561111111,11</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.35">
+	<description>&lt;img src=&quot;20261111_163525.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.532774111111,-6.86537561111111,11</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.36">
+	<description>&lt;img src=&quot;20261111_164329.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.526070694444,-6.85565961111111,23</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.37">
+	<description>&lt;img src=&quot;20261111_164635.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.5262455,-6.85548111111111,28</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.38">
+	<description>&lt;img src=&quot;20261111_164643.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.5262455,-6.85548111111111,28</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.39">
+	<description>&lt;img src=&quot;20261111_165236.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.524032694444,-6.85450838888889,31</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.40">
+	<description>&lt;img src=&quot;20261111_165436.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.524063388889,-6.85469930555556,40</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.41">
+	<description>&lt;img src=&quot;20261111_165504.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.524106888889,-6.85480019444444,25</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.42">
+	<description>&lt;img src=&quot;20261111_165512.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.524106888889,-6.85480019444444,25</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.43">
+	<description>&lt;img src=&quot;20261111_165724.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.524089694444,-6.85486711111111,35</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.44">
+	<description>&lt;img src=&quot;20261111_165906.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.524088111111,-6.85486119444444,32</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.45">
+	<description>&lt;img src=&quot;20261111_165934.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.524087888889,-6.85486719444444,33</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.46">
+	<description>&lt;img src=&quot;20261111_165943.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.524094611111,-6.85486188888889,32</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.47">
+	<description>&lt;img src=&quot;20261111_171132.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.528594,-6.86624688888889,36</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.48">
+	<description>&lt;img src=&quot;20261111_171141.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.528594,-6.86624688888889,36</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.49">
+	<description>&lt;img src=&quot;20261111_171146.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.528594,-6.86624688888889,36</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.50">
+	<description>&lt;img src=&quot;20261112_125055.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.581061111111,-6.7943425,21</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.51">
+	<description>&lt;img src=&quot;20261112_125143.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.581061111111,-6.7943425,21</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.52">
+	<description>&lt;img src=&quot;20261112_125221.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.580583805556,-6.7939355,33</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.53">
+	<description>&lt;img src=&quot;20261112_130348.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.577137,-6.792524,31</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.54">
+	<description>&lt;img src=&quot;20261112_141137.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.594059194444,-6.74625830555556,30</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.55">
+	<description>&lt;img src=&quot;20261112_141142.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.594059194444,-6.74625830555556,30</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.56">
+	<description>&lt;img src=&quot;20261112_141321.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.593999694444,-6.74627269444444,34</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.57">
+	<description>&lt;img src=&quot;20261112_170825.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.471612611111,-6.954695,48</coordinates></Point>
+  </Placemark>
+  <Placemark id="photos.58">
+	<description>&lt;img src=&quot;20261112_170833.jpg&quot; width=&quot;400&quot;/&gt;</description>
+      <Point><coordinates>110.471770888889,-6.95499811111111,38</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
